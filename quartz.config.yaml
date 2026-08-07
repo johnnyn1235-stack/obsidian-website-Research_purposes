@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: Research_purposes.github.io/quartz
+  baseUrl: johnnyn1235-stack.github.io/obsidian-website-Research_purposes
   ignorePatterns:
     - private
     - templates
