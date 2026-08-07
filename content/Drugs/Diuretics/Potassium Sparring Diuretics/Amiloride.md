@@ -12,7 +12,7 @@ inhibition of the epithelial sodium channel ([[ENaC]]) in the kidney's late dist
 Amiloride actions on [[ENaC]] will indirectly spar potassium decrease excretion K⁺ via [[ROMK1]]. [[ENaC]] blockade will eliminate the lumen negative electrical potential that Na⁺ reabsorption causes. This change in the electrical gradient inhibits the secretion potassium and other ions  H⁺, Ca²⁺, and Mg²⁺.
 
 **[[RAAS]]**
-Since [[ENaC]] itself is pharmacologically blocked, [[aldosterone]] can't fully act on its main target, so this compensatory hormonal surge is partially wasted aldosterone rises, but the channel it would normally activate is blocked, blunting the kidney's ability to respond to that hormonal signal.
+Since [[ENaC]] itself is pharmacologically blocked, [[Aldosterone]] can't fully act on its main target, so this compensatory hormonal surge is partially wasted aldosterone rises, but the channel it would normally activate is blocked, blunting the kidney's ability to respond to that hormonal signal.
 
 **Uric acid**
 Prolonged use of amiloride can reduce the excretion of renal uric acid by causing volume contraction and reabsorption of uric acid from the proximal convoluted tubule. Purely because of volume depletion driving more PCT reabsorption.
