@@ -27,3 +27,4 @@ Osteoblasts PTH1R⁺ upregulates RANKL, which then acts on osteoclast precursors
 **IHH–PTHrP**
 Reduced chondrocyte hypertrophic differentiation / delayed endochondral ossification. Downstream transcriptional/differentiation outcome, mimicking the IHH–PTHrP feedback loop.
 
+
