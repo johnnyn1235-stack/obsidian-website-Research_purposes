@@ -9,7 +9,7 @@ Abaloparatide is an anabolic, bone-building prescription medicine used to treat 
 Abaloparatide is a selective agonist at the type 1 parathyroid hormone receptor ([[PTHR1]]), a G-protein coupled receptor (GPCR) expressed primarily on [[osteoblasts]], [[osteocytes]], and [[chondrocytes]]. It's selectively for the RG conformation resulting in transient, rapid signalling activation of Gs→adenylyl cyclase→cAMP→PKA,
 
 **RG-bias/SOST**
-That also couples to Gs/cAMP but dissociates quickly, activation of Gq→PLC→IP3/DAG→Ca²⁺/PKC in osteoblasts, osteocytes RG-bias. and direct consequence of PKA activation increase in Osteocytes PKA/ECR5/MEF2 directly represses SOST transcription pathway.
+That also couples to Gs/cAMP but dissociates quickly, activation of Gq→PLC→IP3/DAG→Ca²⁺/PKC in osteoblasts, osteocytes RG-bias. and direct consequence of PKA activation increase in Osteocytes PKA/ECR5/MEF2 directly represses [[SOST]] transcription pathway.
 
 **PKA/SOX9**
 Furthermore PTH1R activation increases chondrocytes in growth plates beceause of it's same receptor, PTHrP mimetic, and PKA activation provided PKA signalling stabilizes/maintains SOX9 expression and activity, driving Col2a1, aggrecan. 

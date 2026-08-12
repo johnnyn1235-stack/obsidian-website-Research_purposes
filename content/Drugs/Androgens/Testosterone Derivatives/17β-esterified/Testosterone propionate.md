@@ -5,20 +5,25 @@ Testosterone propionate is a synthetic androgen and anabolic steroid medication.
 ### Mechanism of Action
 ---
 #### Direct
-Skeletal Muscle
-Testosterone binds AR directly in muscle tissue, aromatising expression is little to none, it promotes muscle anabolism and inhibits muscle atrophy via IGF-1, PI3K/Akt, and Akt/mTORC1/Foxo3a signaling. And ubiquitin-proteasome system, also suppresses inflammatory cytokines like IL-6 through the androgen receptor.
+**Skeletal Muscle**
+T acts directly on skeletal muscle through the androgen receptor (AR), promoting an anabolic state and supporting muscle protein synthesis and hypertrophy. T is Associated with increased IGF-1 expression and activation of [[PI3K Akt]] and [[mTORC1]]. Akt-mediated phosphorylation of FoxO transcription factors suppresses the expression of atrophy related ubiquitin ligases such as MuRF1 and atrogin-1/MAFbx, thus reducing activation of the ubiquitin–proteasome proteolytic system. Testosterone can also stimulate ERK and mTOR signaling directly in muscle cells, contributing to hypertrophic growth.
 
-Osteoprogenitors
-Testosterone itself has direct stimulatory effects here even before full osteoblast commitment. Androgens directly stimulate proliferation of bone cells in vitro, and AR-mediated signaling contributes to pushing these cells toward osteogenic commitment. AR-regulated Wnt4, produced by bone lining cells and osteocytes, stimulates osteogenic differentiation of mesenchymal stem cells and drives bone formation.
+**Osteoprogenitors**
+[[Osteoprogenitors]] / early osteoblasts T acts directly via AR, promoting proliferation and osteogenic maturation. Testosterone → AR → genomic transcription → ↑ ALP/TNSALP → matrix maturation/mineralization, with testosterone itself also shown to stimulate osteoblast proliferation. More specific kinase pathways remain less established for testosterone than [[DHT]].
 
-Osteoblasts
-This is where testosterone→DHT→AR does the most clearly mapped work. Testosterone is converted locally to DHT 5 alpha reductase, which binds both nuclear AR and a membrane-associated form of AR. Activating PKG2, which triggers a kinase cascade (including ERK) that phosphorylates AR itself, boosting nuclear AR translocation and binding to the β-catenin gene promoter driving the transcriptional program for osteoblast proliferation and differentiation. Separately, DHT-AR signaling also triggers a pro-apoptotic Bax/Bcl-2 shift in these same cells.
+**Osteoblasts**
+Promoting proliferation and [[osteoblasts]] activity via AR activity. Testosterone → AR → genomic signaling → ↑ ALP/TNSALP and osteocalcin → matrix maturation/mineralization, while increased TGF-β signaling may further contribute to proliferation.
 
-Osteocytes
-
-
-
+**Osteocytes**
+T acts directly on [[osteocytes]] through AR, with AR expression increasing during osteocyte differentiation. Testosterone-AR signalling contributes to osteocyte-mediated regulation of bone remodelling and potential interactions of mechanotransduction pathways such as [[SOST]], [[RANKL]] and [[OPG]]. However, unlike osteoblasts and osteoprogenitors, the specific downstream mechanisms of testosterone signalling in osteocytes remain less well established. Evidence supports an important role for osteocyte AR in maintaining trabecular bone, theses specific pathways are less established.
 #### Indirect
 
 ### Molecular Structure & Drug Info
 ---
+![[Pasted image 20260812195536.png]]
+
+IUPAC Name: 17β-(propionyloxy)androst-4-en-3-one
+Chemical Group: Esterified Testosterone Derivative
+Molecular Formula: C₂₂H₃₂O₃
+Molecular Weight: 344.49 g/mol
+Class: Androgen
