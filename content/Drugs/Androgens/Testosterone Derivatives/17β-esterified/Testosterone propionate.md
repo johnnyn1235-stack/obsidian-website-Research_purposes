@@ -15,7 +15,10 @@ T acts directly on skeletal muscle through the androgen receptor (AR), promoting
 Promoting proliferation and [[osteoblasts]] activity via AR activity. Testosterone → AR → genomic signaling → ↑ ALP/TNSALP and osteocalcin → matrix maturation/mineralization, while increased TGF-β signaling may further contribute to proliferation.
 
 **Osteocytes**
-T acts directly on [[osteocytes]] through AR, with AR expression increasing during osteocyte differentiation. Testosterone-AR signalling contributes to osteocyte-mediated regulation of bone remodelling and potential interactions of mechanotransduction pathways such as [[SOST]], [[RANKL]] and [[OPG]]. However, unlike osteoblasts and osteoprogenitors, the specific downstream mechanisms of testosterone signalling in osteocytes remain less well established. Evidence supports an important role for osteocyte AR in maintaining trabecular bone, theses specific pathways are less established.
+T acts directly on [[osteocytes]] through AR, with AR expression increasing during osteocyte differentiation. Testosterone-AR signalling contributes to osteocyte-mediated regulation of bone remodelling and potential interactions of mechanotransduction downstream pathways such as [[SOST]], [[RANKL]] and [[OPG]]. However, unlike osteoblasts and osteoprogenitors, the specific downstream mechanisms of testosterone signalling in osteocytes remain less well established. Evidence supports an important role for osteocyte AR in maintaining trabecular bone, theses specific pathways are less established.
+
+Rental / Erythropoiesis
+T stimulates erythropoiesis through renal, iron and potentially direct haematopoietic mechanisms. Testosterone → AR → ↑ [[EPO]] production in the kidney → EPOR/JAK2/STAT5 signalling in erythroid progenitors → ↑ erythroid survival and proliferation. T also suppresses hepatic hepcidin through BMP/SMAD signalling → ↑ ferroportin activity and iron availability → increased haemoglobin synthesis and erythropoiesis via AR activation. 
 #### Indirect
 
 ### Molecular Structure & Drug Info
