@@ -5,26 +5,22 @@ Abaloparatide is an anabolic, bone-building prescription medicine used to treat 
 ### Mechanism of Action
 ---
 #### Direct
-**PTHR1**
-Abaloparatide is a selective agonist at the type 1 parathyroid hormone receptor ([[PTHR1]]), a G-protein coupled receptor (GPCR) expressed primarily on [[osteoblasts]], [[osteocytes]], and [[chondrocytes]]. It's selectively for the RG conformation resulting in transient, rapid signalling activation of Gs→adenylyl cyclase→cAMP→PKA,
+### Direct
+**PTH1R**
+Abaloparatide is a synthetic PTHrP(1–34) analogue and selective PTH1R agonist. It preferentially binds the **RG, G-protein-coupled conformation** of PTH1R, producing a relatively transient **Gs → adenylyl cyclase → cAMP → PKA** signal. Abaloparatide can also engage additional PTH1R pathways, including PLC/Ca²⁺ and β-arrestin signalling, but Gs/cAMP/PKA is the principal pathway associated with its osteoanabolic action.
 
-**RG-bias/SOST**
-That also couples to Gs/cAMP but dissociates quickly, activation of Gq→PLC→IP3/DAG→Ca²⁺/PKC in osteoblasts, osteocytes RG-bias. and direct consequence of PKA activation increase in Osteocytes PKA/ECR5/MEF2 directly represses [[SOST]] transcription pathway.
+**SOST**
+PTH1R → Gs → cAMP → PKA → ↓ SIK2/3 activity → HDAC4/5 nuclear translocation → ↓ MEF2-dependent **SOST** transcription → ↓ sclerostin. This removes inhibition of Wnt signalling and promotes osteoblast activity.
 
-**PKA/SOX9**
-Furthermore PTH1R activation increases chondrocytes in growth plates beceause of it's same receptor, PTHrP mimetic, and PKA activation provided PKA signalling stabilizes/maintains SOX9 expression and activity, driving Col2a1, aggrecan. 
-
-**Runx2**
-PKA/PTH1R signalling also delays the rise of Runx2 and SOX9 partly antagonizing Runx2 in proliferative chondrocytes which can delay hypertrophy and repression of Type X collagen (Col X).
-
-#### Indirect
 **Wnt/β-catenin**
-Increased [[Wnt β-catenin]] signalling consequence of reduced sclerostin expression which normally blocks LRP5/6.
+↓ Sclerostin → increased availability of LRP5/6 → ↑ Wnt/β-catenin signalling → increased osteoblast differentiation/activity and bone formation.
 
-**RANKL**
-Osteoblasts PTH1R⁺ upregulates RANKL, which then acts on osteoclast precursors, because of RG-bias shorter RANKL induction relative to the anabolic signal which is more favourable formation : resorption ratio. And given that Wnt/β-catenin increases, OPG expression increases.
+**RANKL/OPG**
+PTH1R signalling regulates osteoblast RANKL expression through cAMP/PKA-dependent pathways involving **SIK2/3 and CRTC proteins**. Abaloparatide produces a more favourable RANKL/OPG balance than prolonged PTH1R stimulation, contributing to a greater formation-over-resorption effect.
 
+Indirect
 **IHH–PTHrP**
-Reduced chondrocyte hypertrophic differentiation / delayed endochondral ossification. Downstream transcriptional/differentiation outcome, mimicking the IHH–PTHrP feedback loop.
+PTHrP → PTH1R → PKA → maintenance of proliferative chondrocyte phenotype → delayed hypertrophic differentiation → delayed endochondral ossification.
+
 
 

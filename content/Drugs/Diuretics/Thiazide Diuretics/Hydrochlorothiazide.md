@@ -4,34 +4,31 @@ Hydrochlorothiazide moderate prescription thiazide diuretic, It is primarily use
 
 ### Mechanism of Action
 ---
-#### Direct
-**NCC**
-Inhibition of the sodium-chloride co-transporter ([[NCC]]) in the kidney's distal convoluted tubule preventing Na⁺/Cl⁻ reabsorption, leading to increased excretion of Na and Cl.
-#### Indirect
-**Hypokalaemia**
-Hydrochlorothiazide actually increases Na⁺ reabsorption via [[ENaC]], this leads to a urine lumen being electronegative and secretion of K⁺ via [[ROMK1]].
+**Direct**
+**NCC**  
+HCTZ directly inhibits the Na⁺/Cl⁻ cotransporter ([[NCC]]/SLC12A3) in the distal convoluted tubule → ↓ NaCl reabsorption → ↑ Na⁺ and Cl⁻ excretion → natriuresis and diuresis. Reduced extracellular fluid volume produces the initial fall in blood pressure, while chronic treatment produces a sustained reduction in peripheral vascular resistance.
 
-**Blunting Insulin**
-Furthermore, the secretion of  K⁺ can lead to Hypokalaemia without enough K⁺ to leak into GLUT2 to pancreatic β-cells, voltage-dependent Ca²⁺ channels open less because lack of Depolarization of K⁺, Ca²⁺ influx directly triggers insulin granule exocytosis. In this case insulin release is blunted.
+**Indirect**
+**Hypokalaemia**  
+↑ Distal Na⁺ delivery + [[RAAS]]/[[aldosterone]] activation → ↑ [[ENaC]]-mediated Na⁺ reabsorption → more negative tubular lumen → ↑ K⁺ secretion through [[ROMK]] → hypokalaemia and metabolic alkalosis.
 
-**Hypercalcemia**
-Because of compensation of sodium reabsorption via NHE3 calcium follows sodium and increase of calcium reabsorption into the blood occurs, in the proximal tubule via Claudin-2, -10a, -17
+**Hypocalciuria / Hypercalcaemia**  
+NCC inhibition → ↓ intracellular Na⁺ in DCT cells → ↑ basolateral NCX1 activity → ↓ intracellular Ca²⁺ → ↑ TRPV5-mediated apical Ca²⁺ entry → ↑ distal Ca²⁺ reabsorption → ↓ urinary Ca²⁺. This contributes to thiazide prevention of calcium-containing kidney stones and may have a bone-sparing effect.
 
-Furthermore a decrease in extracellular fluid volume caused by loss of sodium through NCC activates RAAS, this leads to hypertrophy, of the calcium-transporting cells in the connecting tubule enhancing the function of the TRPV5 calcium channels. 
+**Nephrogenic diabetes insipidus**  
+Mild ECF contraction → ↑ proximal Na⁺ and water reabsorption → ↓ distal tubular delivery → ↓ urine volume, thereby reducing polyuria despite HCTZ being a diuretic.
 
-Blocking NCC also plays it's affects electrical gradient via extracellular hyperpolarization wanting calcium into the cell.
-#### Pure Off Target
-**Mitochondrial CA5b Inhibition**
-thiazides directly inhibit mitochondrial carbonic anhydrase 5b (CA5b) inside β-cells. ATP production from glucose oxidation is blunted, less ATP weaker signal to ATP-sensitive potassium channels to close, less depolarization, less Ca²⁺ influx, less insulin.
+**Glucose intolerance / diabetes**  
+HCTZ-induced hypokalaemia may impair [[insulin]] secretion, although this mechanism is not fully established. More recent experimental evidence identifies **mitochondrial carbonic anhydrase 5b (CA5b)** in pancreatic β-cells as a thiazide target: CA5b inhibition → ↓ mitochondrial HCO₃⁻ availability → ↓ anaplerotic oxaloacetate production → impaired metabolic signalling and insulin secretion. This mechanism is strongly supported experimentally but currently rests predominantly on animal/islet data rather than definitive human evidence.
 
-**CA Isoforms Inhibition**
-HCTZ also inhibits carbonic anhydrase isoforms in renal PCT CA-II is inhibited this reduces HCO3⁻ reabsorption this can lead to mild natriuresis/alkalosis. In vascular smooth muscle whether CA-II or CA-I is unknown but the effects are show to cause intracellular alkalinization, increase calcium activated potassium channels leading to vasodilation.
+**Hyperuricaemia / gout**  
+HCTZ alters proximal-tubular urate handling → ↓ renal uric-acid excretion → ↑ serum urate → increased risk of hyperuricaemia and gout.
 
-**Prostaglandin Simulation**
-HCTZ and other thiazides stimulate synthesis of prostaglandin PGE2 and the platelet antiaggregant prostacyclin PGI2 these are vasodilatory, natriuretic promoting eicosanoids.
+**Carbonic anhydrase inhibition**  
+Thiazides retain carbonic-anhydrase inhibitory activity, but CA inhibition is not the principal mechanism responsible for HCTZ's therapeutic natriuresis; NCC inhibition is the dominant pharmacological target.
 
-**OATs/URAT1** 
-HCTZ competes with urate for secretion via OAT1/OAT3 in the PCT basolateral uptake and also affects URAT1 on the apical side net effect is reduced uric acid excretion, hyperuricemia/gout risks.
+**Vascular effects**  
+Chronic thiazide therapy produces sustained vasodilation/reduced peripheral resistance, but the precise molecular mechanism remains incompletely defined. Experimental effects involving vascular ion channels, carbonic anhydrase and prostaglandins have been proposed, but they should not be presented as established primary mechanisms.
 
 ![[Pasted image 20260720190117.png]]
 
