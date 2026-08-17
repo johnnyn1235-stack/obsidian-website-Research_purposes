@@ -4,11 +4,11 @@ Hydrochlorothiazide moderate prescription thiazide diuretic, It is primarily use
 
 ### Mechanism of Action
 ---
-**Direct**
+#### Direct
 **NCC**  
 HCTZ directly inhibits the Na⁺/Cl⁻ cotransporter ([[NCC]]/SLC12A3) in the distal convoluted tubule → ↓ NaCl reabsorption → ↑ Na⁺ and Cl⁻ excretion → natriuresis and diuresis. Reduced extracellular fluid volume produces the initial fall in blood pressure, while chronic treatment produces a sustained reduction in peripheral vascular resistance.
 
-**Indirect**
+#### Indirect
 **Hypokalaemia**  
 ↑ Distal Na⁺ delivery + [[RAAS]]/[[aldosterone]] activation → ↑ [[ENaC]]-mediated Na⁺ reabsorption → more negative tubular lumen → ↑ K⁺ secretion through [[ROMK]] → hypokalaemia and metabolic alkalosis.
 

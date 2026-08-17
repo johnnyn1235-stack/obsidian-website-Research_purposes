@@ -21,6 +21,3 @@ PTH1R signalling regulates osteoblast RANKL expression through cAMP/PKA-dependen
 Indirect
 **IHH–PTHrP**
 PTHrP → PTH1R → PKA → maintenance of proliferative chondrocyte phenotype → delayed hypertrophic differentiation → delayed endochondral ossification.
-
-
-

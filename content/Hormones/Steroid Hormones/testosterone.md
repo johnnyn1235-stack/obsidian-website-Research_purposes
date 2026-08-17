@@ -1,6 +1,6 @@
 ### About
 ---
-Testosterone cypionate is a prescription, long-acting IM injectable form of the primary male sex hormone. It is mainly used for TRT in males whose bodies do not produce enough natural testosterone due to medical conditions like [[hypogonadism]].
+Testosterone is the primary male sex hormone and an anabolic steroid. It is produced mainly by the testicles in men and in smaller amounts by the ovaries in women, as well as the adrenal glands in both sexes. It controls puberty, muscle growth, bone strength, and sex drive.
 
 ### Mechanism of Action
 ---
@@ -28,12 +28,3 @@ T → CYP19A1 → 17β-estradiol ([[E2]])
 
 5-alpha reductase
 T → 5-Alpha Reductase (SRD5A1/SRD5A2) → [[DHT]]
-### Molecular Structure & Drug Info
----
-
-
-IUPAC Name:
-Chemical Group: Esterified Testosterone Derivative
-Molecular Formula: 
-Molecular Weight: 
-Class: Androgen

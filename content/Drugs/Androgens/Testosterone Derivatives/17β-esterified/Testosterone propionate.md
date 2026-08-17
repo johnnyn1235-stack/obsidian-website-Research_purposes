@@ -1,6 +1,6 @@
 ### About
 ---
-Testosterone propionate is a synthetic androgen and anabolic steroid medication. It features a short ester chain that makes it a fast-acting, short-release form of testosterone. It is historically used to treat low testosterone levels in men ([[hypogonadism]])and certain types of breast cancer in women via IM injections.
+Testosterone propionate is a synthetic androgen and anabolic steroid medication. It features a short ester chain that makes it a fast-acting, short-release form of [[testosterone]]. It is historically used to treat low testosterone levels in men ([[hypogonadism]])and certain types of breast cancer in women via IM injections.
 
 ### Mechanism of Action
 ---
@@ -17,17 +17,17 @@ Promoting proliferation and [[osteoblasts]] activity via AR activity. Testostero
 **Osteocytes**
 T acts directly on [[osteocytes]] through AR, with AR expression increasing during osteocyte differentiation. Testosterone-AR signalling contributes to osteocyte-mediated regulation of bone remodelling and potential interactions of mechanotransduction downstream pathways such as [[SOST]], [[RANKL]] and [[OPG]]. However, unlike osteoblasts and osteoprogenitors, the specific downstream mechanisms of testosterone signalling in osteocytes remain less well established. Evidence supports an important role for osteocyte AR in maintaining trabecular bone, theses specific pathways are less established.
 
-Rental / Erythropoiesis
+**Rental / Erythropoiesis**
 T stimulates erythropoiesis through renal, iron and potentially direct haematopoietic mechanisms. Testosterone → AR → ↑ [[EPO]] production in the kidney → EPOR/JAK2/STAT5 signalling in erythroid progenitors → ↑ erythroid survival and proliferation. T also suppresses hepatic hepcidin through BMP/SMAD signalling → ↑ ferroportin activity and iron availability → increased haemoglobin synthesis and erythropoiesis via AR activation. 
 
-Water / Sodium Retention
-Testosterone can act directly on the renal tubule through AR signalling to increase ENaC expression. T → AR → ↑ αENaC transcription, with evidence for direct androgen-responsive regulation of the αENaC promoter; testosterone also increases α, β and γ ENaC expression in the distal nephron/collecting duct in animal models. Testosterone may also enhance renal Na⁺/K⁺-ATPase activity associated with increased Na⁺ transport, although direct AR activation is limited.
+**Water / Sodium Retention**
+Testosterone can act directly on the renal tubule through AR signalling to increase [[ENaC]] expression. T → AR → ↑ αENaC transcription, with evidence for direct androgen-responsive regulation of the αENaC promoter; testosterone also increases α, β and γ ENaC expression in the distal nephron/collecting duct in animal models. Testosterone may also enhance renal Na⁺/K⁺-ATPase activity associated with increased Na⁺ transport, although direct AR activation is limited.
 #### Indirect
 Aromatization
 T → CYP19A1 → 17β-estradiol ([[E2]])
 
 5-alpha reductase
-T → 5-Alpha Reductase (SRD5A1/SRD5A2) → [[DHT]]
+T → 5-Alpha Reductase type 1/2 → [[DHT]]
 ### Molecular Structure & Drug Info
 ---
 ![[Pasted image 20260812195536.png]]
