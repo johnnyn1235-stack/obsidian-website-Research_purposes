@@ -37,3 +37,16 @@ Chemical Group: Esterified Testosterone Derivative
 Molecular Formula: C₂₂H₃₂O₃
 Molecular Weight: 344.49 g/mol
 Class: Androgen
+
+### Direct & Indirect Pathways
+---
+
+
+| Outcome: Positive        | Pathway & Mechanism                                                                                                                 | System / Effect              |                |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | -------------- |
+| Muscle mass & strength   | anabolic signalling including PI3K/Akt/mTOR → ↑ protein synthesis; Akt inhibits FoxO → ↓ MuRF1/MAFbx-mediated proteolysis           | Skeletal muscle              |                |
+| BMD                      | AR signalling in osteoblast-lineage cells + conversion to E2, increase osteoblast activity/bone formation and reduced bone turnover | Skeletal                     | Not quantified |
+| Erythropoiesis           | EPO increase and increased in iron availability                                                                                     | Kidney / bone marrow         | Not quantified |
+| Libido / sexual function | activation of AR-dependent CNS and reproductive-tissue signalling, androgen and estrogen metabolites can also contribute            | CNS / reproductive           | Not quantified |
+| fat loss                 | adipogenic signalling, altering lipid metabolism                                                                                    | Muscle / adipose             | Not quantified |
+| Insulin sensitivity      | increase insulin-signalling proteins/GLUT4 + decease visceral fat/free fatty acids/inflammation                                     | Muscle / adipose / metabolic | Not quantified |

@@ -1,0 +1,1 @@
+Methenolone or brand name Primobolan, an anabolic androgenic steroid, derived from dihydrotestosterone ([[DHT]]). It comes as an oral tablet (methenolone acetate) or an injection (methenolone enanthate, often called Primobolan Depot). It was originally used medically to treat muscle wasting and anemia, but it is now largely discontinued for official medical use.
