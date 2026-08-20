@@ -17,3 +17,5 @@ ODN preserves osteoclast numbers (supported by sustained or ↑ [[TRAP5b]]). Upo
 
 **Off-target cerebrovascular risk**  
 Off-target effects (mechanism incompletely defined; may involve CatK expression in vascular smooth muscle or off-target inhibition of other cathepsins) → ↑ incidence of cerebrovascular events (stroke) in the LOFT trial → primary reason for regulatory withdrawal, despite robust antifracture efficacy.
+
+test
